@@ -2,6 +2,8 @@
 
 Welcome to my portfolio showcasing my research in robotics and mechatronics.
 
+website inspired from  https://github.com/topics/portfolio-website-design
+
 ## About Me
 
 I am Sugin Elankavi Rajendran, a dedicated researcher with a focus on developing cutting-edge solutions in the fields of robotics and mechatronics. This repository serves as a portfolio to provide an overview of my work and expertise.
