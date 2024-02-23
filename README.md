@@ -1,4 +1,4 @@
-# Sugin Elankavi Rajendran - Robotics and Mechatronics Research
+# Sugin Elankavi Rajendran - Robotics and Mechatronics Researcher
 
 Welcome to my portfolio showcasing my research in robotics and mechatronics.
 
