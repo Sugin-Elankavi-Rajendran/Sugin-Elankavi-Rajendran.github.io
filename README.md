@@ -2,7 +2,7 @@
 
 Welcome to my portfolio showcasing my research in robotics and mechatronics.
 
-website inspired from  https://github.com/topics/portfolio-website-design
+website inspired from  https://github.com/jigar-sable/Portfolio-Website
 
 ## About Me
 
